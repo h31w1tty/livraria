@@ -3,7 +3,7 @@
 
 $servidor = "sql213.infinityfree.com";
 $usuario = "if0_35446583"; 
-$senha = "i76I0773bj";
+$senha = "***********";
 $banco = "if0_35446583_livraria";
 $con = new mysqli($servidor, $usuario, $senha, $banco);
 if(!$con){
